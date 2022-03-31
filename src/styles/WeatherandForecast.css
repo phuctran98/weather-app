@@ -1,0 +1,13 @@
+.weatherandforecast{
+    display: flex;
+    flex-direction: column;
+    padding: 3rem 4rem;
+   
+    width: 404px;
+}
+.forecastContainer{
+    display: flex;
+    flex-direction: row;
+
+    justify-content: space-between;
+}
